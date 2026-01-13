@@ -1,0 +1,4 @@
+Projekt dotyczy prostej aplikacji budżetowej dla studentów.
+Problem jaki rozwiązuje to brak kontroli nad wydatkami.
+Odbiorcą są studenci, którzy chcą zaoszczędzić pieniądze.
+Główne funkcje: dodawanie paragonów, wykres wydatków.

@@ -1,0 +1,4 @@
+1. Inspiracje: excel, aplikacje bankowe.
+2. Elementy: ekran startowy, lista wydatków.
+3. Dane: kwota, kategoria, data.
+4. Źródło: własna potrzeba.
